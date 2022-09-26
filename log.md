@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: September 16, 2022
+### Day 0: September 16, 2022
 
 **Today's Progress**: Solved basic loop questions using Javascript
 
@@ -9,39 +9,39 @@
 **Link to work:** (https://github.com/rashmipachpande/JavaScript)
 
 
-### Day No.2: Sep. 17, 2022
+### Day No.1: Sep. 17, 2022
 
 **Today's Progress:** Started learning Java and more practicing on HTML5
 
 **Thoughts:** Planning to make more peojects using HTML,CSS,JS
 
 
-### Day No.3: Sep. 18, 2022
+### Day No.2: Sep. 18, 2022
 
 **Today's Progress:** Completed Java Syntax got understanding of working
 
 
-### Day No.4: MSep. 19, 2022
+### Day No.3: MSep. 19, 2022
 
 **Today's Progress:** Completed Java type casting, data types, variables
  
 
-### Day No.5: Sep. 20, 2022
+### Day No.4: Sep. 20, 2022
 
 **Today's Progress:** Completed all operators sections through problem solving questions.
 
 
-### Day No.6: Sep. 21, 2022
+### Day No.5: Sep. 21, 2022
 
 **Today's Progress:** Completed if..else statements throgh solving mutiple questions from CodesDope platform level 1 finished
 
 
-### Day No.7: Sep. 22, 2022
+### Day No.6: Sep. 22, 2022
 
 **Today's Progress:** Implemented few ways of using link and images using HTML
 
 
-### Day No.8: Sep. 23, 2022
+### Day No.7: Sep. 23, 2022
 
 **Today's Progress:** Tried to make a project on Android Studio 
 
@@ -53,10 +53,14 @@
 
 **Today's Progress:** Working on Android Studio for making an app
 
+### Day No.9: Sep. 25, 2022
+
+**Today's Progress:** Working on Android Studio for making an app
+
 
 ### Day No.10: Sep. 26, 2022
 
-**Today's Progress:** 
+**Today's Progress:** Made Instagram clone using HTML, CSS
 
 
 ### Day No.11: Sep. 27, 2022
